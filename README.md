@@ -6,7 +6,7 @@
 - [Lab: SQL injection with filter bypass via XML encoding](web-security-academy/sqli/3_SQL_injection_with_filter_bypass_via_XML_encoding/exploit.py)
 - [Lab: SQL injection attack, querying the database type and version on Oracle](web-security-academy/sqli/4_SQL_injection_attack_querying_the_database_type_and_version_on_Oracle/exploit.py)
 - [Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft](web-security-academy/sqli/5_SQL_injection_attack_querying_the_database_type_and_version_on_MySQL_and_Microsoft/exploit.py)
-- [Lab: SQL injection attack, listing the database contents on non-Oracle databases](web-security-academy/sqli/6_SQL_injection_attack_listing_the_database_contents_on_non-Oracle_databases/exploit.py)
+- [Lab: SQL injection attack, listing the database contents on non-Oracle databases](web-security-academy/sqli/6_SQL_injection_attack_listing_the_database_contents_on_non_Oracle_databases/exploit.py)
 - [Lab: SQL injection attack, listing the database contents on Oracle](web-security-academy/sqli/7_SQL_injection_attack_listing_the_database_contents_on_Oracle/exploit.py)
 - [Lab: SQL injection UNION attack, determining the number of columns returned by the query](web-security-academy/sqli/8_SQL_injection_UNION_attack_determining_the_number_of_columns_returned_by_the_query/exploit.py)
 

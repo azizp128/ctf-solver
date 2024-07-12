@@ -13,11 +13,11 @@
 ## PicoCTF
 ### General Skills
 - [Binary Search](picoCTF/general-skills/binary-search/exploit.py)
-- [Time Machine]()
-- [Super SSH]()
+- [Time Machine](picoCTF/general-skills/time-machine/exploit.sh)
+- [Super SSH](picoCTF/general-skills/super-ssh/exploit.sh)
 - [endianness](picoCTF/general-skills/endianness/exploit.sh)
-- [Commitment Issues]()
-- [Collaborative Development]()
+- [Commitment Issues](picoCTF/general-skills/commitment-issues/exploit.sh)
+- [Collaborative Development](picoCTF/general-skills/collaborative-development/exploit.sh)
 - [Blame Game]()
 - [binhexa]()
 - [ASCII Numbers]()

@@ -18,7 +18,7 @@
 - [endianness](picoCTF/general-skills/endianness/exploit.sh)
 - [Commitment Issues](picoCTF/general-skills/commitment-issues/exploit.sh)
 - [Collaborative Development](picoCTF/general-skills/collaborative-development/exploit.sh)
-- [Blame Game]()
+- [Blame Game](picoCTF/general-skills/blame-game/exploit.sh)
 - [binhexa]()
 - [ASCII Numbers]()
 - [repetitions](picoCTF/general-skills/repetitions/exploit.sh)

@@ -23,4 +23,4 @@
 - [ASCII Numbers](picoCTF/general-skills/ascii-numbers/exploit.py)
 - [repetitions](picoCTF/general-skills/repetitions/exploit.sh)
 - [Big Zip](picoCTF/general-skills/big-zip/exploit.sh)
-- [First Find]()
+- [First Find](picoCTF/general-skills/first-find/exploit.sh)

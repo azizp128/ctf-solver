@@ -24,3 +24,12 @@
 - [repetitions](picoCTF/general-skills/repetitions/exploit.sh)
 - [Big Zip](picoCTF/general-skills/big-zip/exploit.sh)
 - [First Find](picoCTF/general-skills/first-find/exploit.sh)
+- [Serpentine](picoCTF/general-skills/)
+- [runme.py](picoCTF/general-skills/)
+- [PW Crack 3](picoCTF/general-skills/)
+
+### Reverse Engineering
+- [packer](picoCTF/reverse-engineering/)
+
+### Cryptography
+- [interencdec](picoCTF/cryptography/)

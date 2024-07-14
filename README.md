@@ -29,7 +29,7 @@
 - [PW Crack 3](picoCTF/general-skills/)
 
 ### Reverse Engineering
-- [packer](picoCTF/reverse-engineering/)
+- [packer](picoCTF/reverse-engineering/packer/exploit.sh)
 
 ### Cryptography
-- [interencdec](picoCTF/cryptography/)
+- [interencdec](picoCTF/cryptography/interencdec/exploit.py)

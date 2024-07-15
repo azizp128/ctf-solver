@@ -11,25 +11,30 @@
 - [Lab: SQL injection UNION attack, determining the number of columns returned by the query](web-security-academy/sqli/8_SQL_injection_UNION_attack_determining_the_number_of_columns_returned_by_the_query/exploit.py)
 
 ## PicoCTF
-### General Skills
-- [Binary Search](picoCTF/general-skills/binary-search/exploit.py)
-- [Time Machine](picoCTF/general-skills/time-machine/exploit.sh)
-- [Super SSH](picoCTF/general-skills/super-ssh/exploit.sh)
-- [endianness](picoCTF/general-skills/endianness/exploit.sh)
-- [Commitment Issues](picoCTF/general-skills/commitment-issues/exploit.sh)
-- [Collaborative Development](picoCTF/general-skills/collaborative-development/exploit.sh)
-- [Blame Game](picoCTF/general-skills/blame-game/exploit.sh)
-- [binhexa]()
-- [ASCII Numbers](picoCTF/general-skills/ascii-numbers/exploit.py)
-- [repetitions](picoCTF/general-skills/repetitions/exploit.sh)
-- [Big Zip](picoCTF/general-skills/big-zip/exploit.sh)
-- [First Find](picoCTF/general-skills/first-find/exploit.sh)
-- [Serpentine](picoCTF/general-skills/)
-- [runme.py](picoCTF/general-skills/)
-- [PW Crack 3](picoCTF/general-skills/)
-
-### Reverse Engineering
+### picoCTF 2024
+#### General Skills
+- [Binary Search](picoCTF/picoCTF-2024/general-skills/binary-search/exploit.py)
+- [Time Machine](picoCTF/picoCTF-2024/general-skills/time-machine/exploit.sh)
+- [Super SSH](picoCTF/picoCTF-2024/general-skills/super-ssh/exploit.sh)
+- [endianness](picoCTF/picoCTF-2024/general-skills/endianness/exploit.sh)
+- [Commitment Issues](picoCTF/picoCTF-2024/general-skills/commitment-issues/exploit.sh)
+- [Collaborative Development](picoCTF/picoCTF-2024/general-skills/collaborative-development/exploit.sh)
+- [Blame Game](picoCTF/picoCTF-2024/general-skills/blame-game/exploit.sh)
+- [binhexa](/picoCTF-2024/general-skills/binhexa/exploit.sh)
+- [dont-you-love-banners]()
+- [SansAlpha]()
+#### Reverse Engineering
 - [packer](picoCTF/reverse-engineering/packer/exploit.sh)
 
-### Cryptography
+#### Cryptography
 - [interencdec](picoCTF/cryptography/interencdec/exploit.py)
+
+### picoCTF 2023
+#### General Skills
+- [repetitions](picoCTF/general-skills/repetitions/exploit.sh)
+
+### picoGym Exclusive
+#### General Skills
+- [ASCII Numbers](picoCTF/general-skills/ascii-numbers/exploit.py)
+- [Big Zip](picoCTF/general-skills/big-zip/exploit.sh)
+- [First Find](picoCTF/general-skills/first-find/exploit.sh)

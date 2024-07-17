@@ -24,17 +24,19 @@
 - [dont-you-love-banners]()
 - [SansAlpha]()
 #### Reverse Engineering
-- [packer](picoCTF/reverse-engineering/packer/exploit.sh)
+- [packer](picoCTF/picoCTF-2024/reverse-engineering/packer/exploit.sh)
 
 #### Cryptography
-- [interencdec](picoCTF/cryptography/interencdec/exploit.py)
+- [interencdec](picoCTF/picoCTF-2024/cryptography/interencdec/exploit.py)
 
 ### picoCTF 2023
 #### General Skills
-- [repetitions](picoCTF/general-skills/repetitions/exploit.sh)
+- [repetitions](picoCTF/picoCTF-2023/general-skills/repetitions/exploit.sh)
 
 ### picoGym Exclusive
 #### General Skills
-- [ASCII Numbers](picoCTF/general-skills/ascii-numbers/exploit.py)
-- [Big Zip](picoCTF/general-skills/big-zip/exploit.sh)
-- [First Find](picoCTF/general-skills/first-find/exploit.sh)
+- [ASCII Numbers](picoCTF/picoGym-Exclusive/general-skills/ascii-numbers/exploit.py)
+- [Big Zip](picoCTF/picoGym-Exclusive/general-skills/big-zip/exploit.sh)
+- [First Find](picoCTF/picoGym-Exclusive/general-skills/first-find/exploit.sh)
+#### Reverse Engineering
+- [picker 3](picoCTF/picoGym-Exclusive/reverse-engineering/picker-3/exploit.py)

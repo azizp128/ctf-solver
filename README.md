@@ -36,5 +36,6 @@
 - [Big Zip](picoCTF/picoGym-Exclusive/general-skills/big-zip/exploit.sh)
 - [First Find](picoCTF/picoGym-Exclusive/general-skills/first-find/exploit.sh)
 #### Reverse Engineering
+- [picker 1](picoCTF/picoGym-Exclusive/reverse-engineering/picker-1/exploit.py)
 - [picker 2](picoCTF/picoGym-Exclusive/reverse-engineering/picker-2/exploit.py)
 - [picker 3](picoCTF/picoGym-Exclusive/reverse-engineering/picker-3/exploit.py)

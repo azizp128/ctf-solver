@@ -20,7 +20,6 @@
 - [Commitment Issues](picoCTF/picoCTF-2024/general-skills/commitment-issues/exploit.sh)
 - [Collaborative Development](picoCTF/picoCTF-2024/general-skills/collaborative-development/exploit.sh)
 - [Blame Game](picoCTF/picoCTF-2024/general-skills/blame-game/exploit.sh)
-- [binhexa](/picoCTF-2024/general-skills/binhexa/exploit.sh)
 #### Reverse Engineering
 - [packer](picoCTF/picoCTF-2024/reverse-engineering/packer/exploit.sh)
 

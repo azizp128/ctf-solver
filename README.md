@@ -21,8 +21,6 @@
 - [Collaborative Development](picoCTF/picoCTF-2024/general-skills/collaborative-development/exploit.sh)
 - [Blame Game](picoCTF/picoCTF-2024/general-skills/blame-game/exploit.sh)
 - [binhexa](/picoCTF-2024/general-skills/binhexa/exploit.sh)
-- [dont-you-love-banners]()
-- [SansAlpha]()
 #### Reverse Engineering
 - [packer](picoCTF/picoCTF-2024/reverse-engineering/packer/exploit.sh)
 
@@ -39,4 +37,5 @@
 - [Big Zip](picoCTF/picoGym-Exclusive/general-skills/big-zip/exploit.sh)
 - [First Find](picoCTF/picoGym-Exclusive/general-skills/first-find/exploit.sh)
 #### Reverse Engineering
+- [picker 2](picoCTF/picoGym-Exclusive/reverse-engineering/picker-2/exploit.py)
 - [picker 3](picoCTF/picoGym-Exclusive/reverse-engineering/picker-3/exploit.py)

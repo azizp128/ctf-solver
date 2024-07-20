@@ -40,3 +40,4 @@
 - [picker 2](picoCTF/picoGym-Exclusive/reverse-engineering/picker-2/exploit.py)
 - [picker 3](picoCTF/picoGym-Exclusive/reverse-engineering/picker-3/exploit.py)
 - [GDB baby step 1](picoCTF/picoGym-Exclusive/reverse-engineering/gdb-baby-step-1/exploit.py)
+- [GDB baby step 2](picoCTF/picoGym-Exclusive/reverse-engineering/gdb-baby-step-2/exploit.py)

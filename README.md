@@ -43,5 +43,5 @@
 - [GDB baby step 2](picoCTF/picoGym-Exclusive/reverse-engineering/gdb-baby-step-2/exploit.py)
 - [GDB baby step 3](picoCTF/picoGym-Exclusive/reverse-engineering/gdb-baby-step-3/exploit.py)
 
-## Reversing Challenges
+## Binary Exploitation (PWN) Challenges
 - [Simple Buffer Overflow](reversing-challenges/simple-buffer-overflow/exploit.py)

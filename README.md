@@ -44,5 +44,5 @@
 ### PicoCTF - 2024
 - [interencdec](picoCTF/picoCTF-2024/cryptography/interencdec/exploit.py)
 
-## Binary Exploitation (PWN) Challenges
+## Binary Exploitation (PWN)
 - [Simple Buffer Overflow](pwn-challenges/simple-buffer-overflow/exploit.py)

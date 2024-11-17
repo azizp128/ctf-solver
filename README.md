@@ -1,4 +1,4 @@
-# CTF-exploits
+# CTF-solver
 ## General Skills
 ### PicoCTF - 2024
 - [Binary Search](picoCTF/picoCTF-2024/general-skills/binary-search/exploit.py)
